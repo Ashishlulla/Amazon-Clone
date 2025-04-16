@@ -1,2 +1,2 @@
 # Amazon-Clone
-Basic Amazon.com UI design using HTML &amp; CSS
+Basic Amazon.com UI designed using HTML & CSS
